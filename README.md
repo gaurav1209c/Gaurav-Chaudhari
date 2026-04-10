@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Gaurav Chaudhari
 **A Passionate Data Analyst | ML Enthusiast | Python Developer</h3>**
 
-See My Portfolio 👉 https://gaurav_chaudhari.vercel.app/
+See My Portfolio 👉(https://vercel.com/gaurav1209cs-projects#intent:sidebar:projects)
 
 Email Me 👉 ✉️ **chaudharigaurav847@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
